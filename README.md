@@ -125,3 +125,4 @@ GOCACHE=../.gocache go test ./...
 - [Deal statuses](https://paymentsgate.readme.io/docs/understanding-deal-statuses)
 - [ELQR](https://paymentsgate.readme.io/docs/elqr-in-new)
 - [KGS phone](https://paymentsgate.readme.io/docs/kgsphone)
+# KGS-h2h
